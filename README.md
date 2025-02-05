@@ -1,4 +1,3 @@
-```markdown
 # RPi Blind Stick: Smart Navigation Aid for Visually Impaired
 
 ## Description  
@@ -49,4 +48,3 @@ A Raspberry Pi-based assistive device designed to enhance navigation for visuall
 
 ![System Block Diagram](./diagram.png)  
 *Schematic shown for conceptual purposes; actual connections may vary.*
-```
